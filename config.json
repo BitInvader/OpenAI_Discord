@@ -1,0 +1,5 @@
+{
+  "OPENAI_API_KEY": "your_new_openai_api_key",
+  "DISCORD_BOT_TOKEN": "your_new_discord_bot_token",
+  "GIPHY_API_KEY": "your_giphy_api_key"
+}
