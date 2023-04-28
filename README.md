@@ -9,6 +9,7 @@ https://developers.giphy.com/ for api key - free
 https://platform.openai.com/account/ paid account for api key, have to pay for usage.
 
 
+
 Will need to configure discord app in dev portal, enable 'privileged gatewate intents' in settings > bot
 
 Install python 3.10.10 if you don't already have
