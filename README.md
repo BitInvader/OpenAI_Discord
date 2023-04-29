@@ -17,3 +17,4 @@ Then install pips (in windows cmd): pip install discord.py openai requests
 
 Add the keys to the config.json file and run the app.
 
+Will need to @chatbot_name to use, had some odd behvaior letting it run free responding to everyone.
